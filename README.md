@@ -17,4 +17,4 @@
 
 - [ ] When the form is submitted, a new user should be inserted into the database
 
-R- [ ] edirect to Read (All) page after creating a new user, and the user just created should appear in the table
+- [ ] edirect to Read (All) page after creating a new user, and the user just created should appear in the table
